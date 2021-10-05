@@ -4,4 +4,4 @@
 - 💞️ Hľadám spoluprácu pre google.sk
 - 📫 Ako ma zastihnúť, vonku.
 
-filipkosmileface/filipkosmileface je ✨ špeciálny ✨ repozitár, pretože pretože 
+filipkosmileface/filipkosmileface je ✨ špeciálny ✨ repozitár, pretože pretože

@@ -1,7 +1,5 @@
 - 👋 Ahoj, som @filipkosmileface
 - 👀 Mám záujem o príkazový riadok
-- 🌱 Momentálne sa učím štrikovať
-- 💞️ Hľadám spoluprácu pre google.sk
+- 🌱 Momentálne sa učím lietať
+- 💞️ Hľadám spoluprácu na to aby som hľadal spoluprácu. 
 - 📫 Ako ma zastihnúť, vonku.
-
-filipkosmileface/filipkosmileface je ✨ špeciálny ✨ repozitár, pretože pretože
